@@ -31,7 +31,7 @@ menu:
       weight: 4
 params: 
   author: 박상훈
-  thumbnail: /images/POLI301.png
+  thumbnail: /images/Rstat.png
   instructor: 
     name: 박상훈
     email: sp23@email.sc.edu
@@ -40,7 +40,7 @@ params:
     github: pherephobia
     office: 305 Gambrell Hall
   logo:
-    url: /images/POLI301.png
+    url: /images/Rstat.png
     alt: Rstudy2020
   course:
     number: Rstudy 2020
