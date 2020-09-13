@@ -11,5 +11,5 @@ author: "박상훈"
 <br><br>
 
 <!-- <span class="newthought">How to draw an owl</span> -->
-[![](../static/images/draw-owl5.png)](../static/images/draw-owl5.png)
+<!--[![](../static/images/draw-owl5.png)](../static/images/draw-owl5.png)-->
 
