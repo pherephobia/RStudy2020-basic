@@ -12,6 +12,6 @@ author: "박상훈"
 
 <!-- <span class="newthought">What statistics tell</span> -->
 <figure>
-[![](../static/images/Statistics.jpg)](../static/images/Statistics.jpg){height=2%}
+[![](../static/images/Statistics.jpg)](../static/images/Statistics.jpg){height=0.2%}
 </figure>
 
