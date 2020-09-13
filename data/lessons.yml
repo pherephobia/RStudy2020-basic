@@ -3,7 +3,7 @@ lessons:
     header: True
 
   - title: "Introduction to R"
-    date: "2020-09-8, Tue"
+    date: "2020-09-08, Tue"
     reading: "01-reading"
     class: "01-class"
   
