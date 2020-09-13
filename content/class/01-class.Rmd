@@ -1,0 +1,22 @@
+---
+title: "Introduction to R"
+date: "2020-09-08, Tue"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# 슬라이드
+
+[1주차 슬라이드](/images/slides/w1_intro2R_slide.pdf).
+
+
+# 참고자료
+
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [1주차 HTML 마크다운](/images/w1_intro2R.html)
