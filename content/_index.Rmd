@@ -9,6 +9,7 @@ author: "박상훈"
 
 
 <br><br>
-
+<figure>
+[![](static/images/Statistics.jpg)](static/images/Statistics.jpg){height=30%}
+</figure>
 <!-- <span class="newthought">What statistics tell</span> -->
-![](static/images/Statistics.jpg)
