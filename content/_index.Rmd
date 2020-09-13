@@ -10,6 +10,6 @@ author: "박상훈"
 
 <br><br>
 
-<!-- <span class="newthought">How to draw an owl</span> -->
+<!-- <span class="newthought">What statistics tell</span> -->
 [![](/images/Statistics.jpg)](/images/Statistics.jpg)
 
