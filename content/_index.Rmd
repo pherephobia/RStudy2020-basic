@@ -11,5 +11,4 @@ author: "박상훈"
 <br><br>
 
 <!-- <span class="newthought">What statistics tell</span> -->
-[![](/images/Statistics.jpg)](/images/Statistics.jpg)
-
+![](/images/Statistics.jpg)
