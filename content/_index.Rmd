@@ -10,8 +10,6 @@ author: "박상훈"
 
 <br><br>
 
-<!-- <span class="newthought">What statistics tell</span> -->
-<figure>
-[![](../static/images/Statistics.jpg)](../static/images/Statistics.jpg){height=0.2%}
-</figure>
+<!-- <span class="newthought">How to draw an owl</span> -->
+[![](../static/images/draw-owl5.png)](../static/images/draw-owl5.png)
 
