@@ -1,6 +1,6 @@
 ---
-title: "The Political Science Discipline"
-author: "Juan Tellez"
+title: "R로하는 기초통계"
+author: "박상훈"
 ---
 
 ^[{-} `r blogdown::shortcode("courseinfo")`] <span class="newthought">This site contains</span> the syllabus, schedule, and assignments for POLI-301: The Political Science Discipline held in Fall 2019 at The University of South Carolina.
