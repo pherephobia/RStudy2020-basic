@@ -1,5 +1,5 @@
 ---
-title: Syllabus
+title: "Syllabus"
 slug: syllabus
 citeproc: false
 bibliography: ../static/bib/references.bib
