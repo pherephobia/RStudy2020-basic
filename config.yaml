@@ -47,7 +47,7 @@ params:
     semester: 2020 가을
     days: "월요일"
     time: "09:00-10:30 PM"
-    location: "[Zoom Online](장소)"
+    location: [Zoom Online](장소)
     twitter: pherephobia
     dates: "2020년 9월 7일-12월 7일"
     github: "pherephobia/Rstudy2020-basic"
