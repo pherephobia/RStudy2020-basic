@@ -1,0 +1,13 @@
+---
+title: "Problem set 1"
+date: '2020-09-28'
+due_date: '2020-10-11'
+due_time: 11:59 PM
+editor_options:
+  chunk_output_type: console
+---
+
+# Instructions
+
+TBA, topics: 
+- importing data, variable types, converting variable types, making a dataset tidy (gather/spread).
