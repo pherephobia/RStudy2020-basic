@@ -3,7 +3,7 @@ title: "R로하는 기초통계"
 author: "박상훈"
 ---
 
-^[{-} `r blogdown::shortcode("courseinfo")`] <span class="newthought">This site contains</span> the syllabus, schedule, and assignments for POLI-301: The Political Science Discipline held in Fall 2019 at The University of South Carolina.
+^[{-} `r blogdown::shortcode("courseinfo")`] <span class="newthought"> 이 사이트는 </span> 2020년 가을 R로 하는 기초통계 스터디를 위한 스터디 계획, 일정, 그리고 자료들을 제공하려는 목적으로 개설되었습니다.
 
 
 
@@ -11,5 +11,5 @@ author: "박상훈"
 <br><br>
 
 <!-- <span class="newthought">How to draw an owl</span> -->
-[![](/images/draw-owl5.png)](/images/draw-owl5.png)
+[![](/images/Statistics.jpg)](/images/Statistics.jpg)
 
