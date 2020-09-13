@@ -8,9 +8,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [TBA](TBA)
+- <i class="fas fa-book"></i> [Ch4. in Fox and Weisberg (2019)](static/readings/John Fox, Sanford Weisberg - An R Companion to Applied Regression 2019, SAGE.pdf)
 
-
-# Recommended
-
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)

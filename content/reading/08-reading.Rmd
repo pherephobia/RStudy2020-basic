@@ -8,9 +8,11 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [TBA](TBA)
+*No readings*
 
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Abandon Statistical Significance](static/readings/w3_Abandon Statistical Significance.pdf)
+
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [The Statistical Crisis in Science](static/readings/w3_The Statistical Crisis in Science.pdf)

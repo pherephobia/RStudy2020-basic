@@ -8,9 +8,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [TBA](TBA)
+*No readings*
 
-
-# Recommended
-
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)

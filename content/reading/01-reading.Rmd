@@ -30,4 +30,4 @@ Mac을 사용할 경우:
 
 
 # Recommended
-- <i class="fas fa-book"></i> [Coding Style and Good Computing Practices](https://www.dropbox.com/s/ttoppimyyypdtly/w1_Coding%20Style%20and%20Good%20Computing%20Practices.pdf?dl=0)
+- <i class="fas fa-book"></i> [Coding Style and Good Computing Practices](static/readings/w1_Coding Style and Good Computing Practices.pdf)

@@ -8,9 +8,10 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [TBA](TBA)
-
+*No readings*
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong](static/readings/w5_Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong.pdf)
+
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Strategic Misspecification in Regression Models](static/readings/w5_Strategic Misspecification in Regression Models.pdf)

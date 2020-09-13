@@ -8,9 +8,8 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [TBA](TBA)
+- <i class="fas fa-book"></i> [Ch1. (re-read) & Ch2. in Fox (2016)](https://www.dropbox.com/s/x4h76g5j3657m3w/John%20Fox%20-%20Applied%20Regression%20Analysis%20and%20Generalized%20Linear%20Models.pdf?dl=0)
 
 
 # Recommended
-
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)
+- <i class="fas fa-book"></i> [Do Statistical Reporting Standards Affect What is Published?](static/readings/w3_Do Statistical Reporting Standards Affect What is Published.pdf)

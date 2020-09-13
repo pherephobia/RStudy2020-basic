@@ -6,6 +6,6 @@ blogdown::html_page:
   pandoc_args: [
       "--highlight-style", "haddock",
       "--shift-heading-level-by=2",
-      "--filter", "pandoc-citeproc",
-      "--filter", "pandoc-sidenote"
+      "--filter", "pandoc-citeproc"
+      #"--filter", "pandoc-sidenote"
     ]

@@ -1,6 +1,6 @@
 ---
-title: "Intro to R, RStudio, basics"
-date: "2019-08-27"
+title: "Probabilities and Distributions II"
+date: "2020-10-05"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -12,11 +12,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-
 # 슬라이드
 
-TBA
+5주차 슬라이드.
 
 # 참고자료
 
-TBA
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> 5주차 HTML 마크다운

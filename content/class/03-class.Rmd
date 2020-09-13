@@ -1,6 +1,6 @@
 ---
-title: "Foundation of Inference I"
-date: "2020-10-19, Tue"
+title: "Types of Data; Visualizaing and Transforming Data"
+date: "2020-09-21, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -14,8 +14,8 @@ editor_options:
 
 # 슬라이드
 
-TBA
+3주차 슬라이드.
 
 # 참고자료
 
-TBA
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> 3주차 HTML 마크다운

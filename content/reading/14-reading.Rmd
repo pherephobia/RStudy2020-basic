@@ -8,9 +8,11 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [TBA](TBA)
+*No readings*
 
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Understanding Interaction Models: Improving Empirical Analyses](static/readings/w10_Understanding Interaction Models.pdf)
+
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice](how_much_should_we_trust.pdf)
