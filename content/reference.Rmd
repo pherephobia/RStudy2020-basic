@@ -1,5 +1,5 @@
 ---
-title: Reference
+title: "Reference"
 slug: reference
 output:
   blogdown::html_page:
