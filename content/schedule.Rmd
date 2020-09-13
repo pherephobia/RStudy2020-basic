@@ -1,13 +1,13 @@
 ---
-title: "Schedule"
+title: "스터디 일정"
 slug: schedule
 ---
 
-Here's your roadmap for the semester!
+스터디의 일정은 다음과 같습니다.
 
-- <i class="fas fa-book-reader"></i> Readings should be completed ***before*** each class session
-- <i class="fas fa-laptop-code"></i> Assignments are due by 11:59 PM on the day they are due
-- <i class="fas fa-university"></i> Class materials (slides, in-class activities, etc.) will be added on the day of class
+- <i class="fas fa-book-reader"></i> 리딩 자료는 반드시 스터디 **전**에 미리 숙지하고 오셔야 합니다.
+- <i class="fas fa-laptop-code"></i> 실습 과제는 완벽하게는 못하더라도 이해하고 있는 코드로 최대한 시도를 해보셔야 합니다.
+- <i class="fas fa-university"></i> 스터디 자료(슬라이드, html 문서 등)는 수업 전 주말에 업로드될 것입니다.
 
 ---
 
