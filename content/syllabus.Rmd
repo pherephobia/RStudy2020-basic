@@ -1,5 +1,5 @@
 ---
-title: 스터디계획
+title: syllabus
 slug: syllabus
 citeproc: false
 bibliography: ../static/bib/references.bib
