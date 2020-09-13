@@ -1,6 +1,6 @@
 ---
-title: "Intro to R, RStudio, basics"
-date: "2019-08-27"
+title: "Statistical Models and Social Science (& Tidyverse)"
+date: "2020-09-14 Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -12,17 +12,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+# 참고자료
 
-
-[Download the slides from today's lecture](/images/slides/02-using-r.pdf).
-
-
-# In-class examples
-
-Here's the code we'll be using in class. 
-
-- First R script: [<i class="fas fa-file-archive"></i> `first-script`](/files/first-r-script.R)
-- Flying etiquette, [from FiveThirtyEight](https://fivethirtyeight.com/features/airplane-etiquette-recline-seat/): [<i class="fas fa-file-archive"></i> `flying-etiquette`](/files/flying-etiquette.Rmd)
-
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [2주차 HTML 마크다운](/images/w2_intro2R.html)
 
