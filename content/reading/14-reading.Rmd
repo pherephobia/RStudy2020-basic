@@ -1,12 +1,16 @@
 ---
-title: "Drawing diagrams"
-date: "2019-10-22"
+title: "Understanding of Interactions"
+date: "2020-12-07, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Required
+# Required Reading
 
-- work through the examples in the `ggdag` package vignette [ here](https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html).^[Don't just copy/paste the code; write it out yourself! Change the variables in the smoking/cancer example to something of interest to you.]
+- <i class="fas fa-book"></i> [TBA](TBA)
 
+
+# Recommended
+
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)

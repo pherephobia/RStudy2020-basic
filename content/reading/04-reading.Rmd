@@ -1,15 +1,16 @@
 ---
-title: "Tidy data + variable types"
-date: "2019-09-12"
+title: "Probabilities and Distributions I"
+date:  "2020-09-28, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Required
+# Required Reading
+
+- <i class="fas fa-book"></i> [TBA](TBA)
 
 
-- <i class="fas fa-book"></i> [Ch.4 in *ModernDive*](https://moderndive.com/)
+# Recommended
 
-- <i class="fas fa-book"></i> [Ch.12 in *R for Data Science*](https://r4ds.had.co.nz/tidy-data.html)
-
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)

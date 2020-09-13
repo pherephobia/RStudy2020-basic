@@ -1,14 +1,16 @@
 ---
-title: "Intro to Regression"
-date: "2019-09-17"
+title: "Foundation of Inference I"
+date: "2020-10-19, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Required
+# Required Reading
 
-- <i class="fas fa-book"></i> [CH.5 in *ModernDive*](https://moderndive.com/5-regression.html)
+- <i class="fas fa-book"></i> [TBA](TBA)
 
 
+# Recommended
 
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)

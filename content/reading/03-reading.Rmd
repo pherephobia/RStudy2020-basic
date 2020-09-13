@@ -1,19 +1,16 @@
 ---
-title: "Importing + tibbles"
-date: "2019-09-10"
+title: "Types of Data; Visualizaing and Transforming Data"
+date: "2020-09-21, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Required
+# Required Reading
 
-
-- <i class="fas fa-book"></i> [10.1 - 10.3 in *R for Data Science*](https://r4ds.had.co.nz/tibbles.html)
-
-- <i class="fas fa-book"></i> [Ch.4 in *ModernDive*](https://moderndive.com/)
+- <i class="fas fa-book"></i> [TBA](TBA)
 
 
 # Recommended
 
-- <i class="fas fa-book"></i> [Ch.11 in *R for Data Science*](https://r4ds.had.co.nz/tibbles.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)

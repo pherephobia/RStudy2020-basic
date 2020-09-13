@@ -1,11 +1,16 @@
 ---
-title: "Correlations & explanations"
-date: "2019-09-26"
+title: "Introduction to Linear Regression II"
+date: "2020-11-09, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Required
+# Required Reading
 
-- reading TBA
+- <i class="fas fa-book"></i> [TBA](TBA)
+
+
+# Recommended
+
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)

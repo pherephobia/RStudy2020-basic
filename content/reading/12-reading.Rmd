@@ -1,11 +1,16 @@
 ---
-title: "The trouble with causation"
-date: "2019-10-08"
+title: "Multivariate Linear Regression I"
+date: "2020-11-23, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Required
+# Required Reading
 
-- [this video from Khan Academy](https://www.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots/v/correlation-and-causality)
+- <i class="fas fa-book"></i> [TBA](TBA)
+
+
+# Recommended
+
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [TBA](TBA)
