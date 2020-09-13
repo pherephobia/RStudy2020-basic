@@ -3,8 +3,7 @@
 ![](static/images/Rstat.png)
 
 
-이 레포지토리는 [Rstudy2020](https://rstudy2020.netlify.app) 활동을 위해 작성된 코드 등을 공유하기 위해 만들어진 공간입니다. at The University of South Carolina, Fall 2019. 
-
+이 레포지토리는 [Rstudy2020](https://rstudy2020.netlify.app) 활동을 위해 작성된 코드 등을 공유하기 위해 만들어진 공간입니다. 
 
 ## Theme
 
