@@ -6,6 +6,28 @@ bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Required
+스터디에 참여하기 위해서는 R과 Rstudio를 설치해야 합니다.
 
-- [스터디 계획](/syllabus/)과 [assignments](/assignments/) pages for this class
+윈도우를 사용할 경우:
+
+1. R을 다음의 링크에서 다운받습니다: [http://cran.us.r-project.org/](http://cran.us.r-project.org/) (“Download R for Windows” 클릭 > “base” > “Download R 2.x.x for Windows”; 가장 높은 버전을 설치하면 됩니다.)
+2. R을 설치합니다. 모두 기본 설정으로 그냥 설치하면 됩니다.
+3. Rstudio를 다음의 링크에서 다운받습니다: [http://rstudio.org/download/desktop](http://rstudio.org/download/desktop). 설치하되 모든 설정은 마찬가지로 기본 설정으로 유지하면 됩니다.
+4. Rstudio를 엽니다.
+
+
+Mac을 사용할 경우:
+
+1. R을 다음의 링크에서 다운받습니다: [http://cran.us.r-project.org/](http://cran.us.r-project.org/) (“Download R for Mac OS X” 클릭 > “R-2.x.x.pkg (가장 최근 버전)”)
+2. R을 설치합니다.
+3. RStudio를 다음의 링크에서 다운받습니다: [http://rstudio.org/download/desktop](http://rstudio.org/download/desktop).
+4. 어플리케이션 폴더로 어플리케이션 아이콘을 드래그해서 Rstudio를 설치합니다.
+
+
+# Required Reading
+
+- <i class="fas fa-book"></i> [Ch1. in Fox (2016)](https://www.dropbox.com/s/x4h76g5j3657m3w/John%20Fox%20-%20Applied%20Regression%20Analysis%20and%20Generalized%20Linear%20Models.pdf?dl=0)
+
+
+# Recommended
+- <i class="fas fa-book"></i> [Coding Style and Good Computing Practices](https://www.dropbox.com/s/ttoppimyyypdtly/w1_Coding%20Style%20and%20Good%20Computing%20Practices.pdf?dl=0)
