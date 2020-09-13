@@ -1,0 +1,51 @@
+---
+title: "Syllabus"
+slug: syllabus
+citeproc: false
+bibliography: ../static/bib/references.bib
+csl: ../static/bib/chicago-syllabus-no-bib.csl
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<h3 id="스터디-목표">스터디 목표</h3>
+<p><span class="newthought">본 <code>Rstudy2020</code> 스터디<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></span> 선형회귀분석을 가지고 변수들 간의 관계를 측정 및 해석하는 통계기법을 살펴보는 것을 목적으로 한다. 구체적으로 <code>R</code>에 관한 기본적인 작동 원리 및 코딩을 위한 팁 등을 함께 살펴보며, 나아가 통계학적 기본 지식들(확률, 분포, 추론 등)에 대한 리뷰 및 유의성 검정, 최소자승법(ordinary least squres, OLS)을 이용한 선형회귀모형 추정에 관한 내용들을 개략적으로 훑어볼 것이다.</p>
+<p>만약 시간이 허락한다면, 비연속적 종속변수를 추정하기 위한 일반화 선형모형(generalized linear models, GLM)과 어떤 통계 모형을 사용할 것인지에 관한 선택의 문제(모델 진단, 모델 선택 과정, 결측치 문제)도 함께 다루어 볼 것이다. 이 스터디는 단순히 통계학적 지식을 이론적으로 학습하기보다는 재생산 가능한 자료를 이용하여 <code>R</code>을 이용한 통계분석 및 프로그래밍을 실습하고, 나아가 그 분석 결과를 실제 활용할 수 있는 방식으로 보여줄 수 있는 능력을 함양하는 데 목적이 있다.</p>
+<p>스터디를 마치게 되었을 때, 구성원들은 선형 회귀를 이용하여 경험적 관계를 평가하고, 이후 보다 고급 통계 모델 및 기법들을 이해하는 기초를 마련할 수 있게 될 것으로 기대한다.</p>
+<p>이 스터디는 <code>R</code>을 사용하기 위한 컴퓨터를 필요로 하며, 정기적으로 <a href="https://us02web.zoom.us/j/9013379527?pwd=akhTd0poRnNudUt5OGovejlWcW91QT09"><em>Zoom</em></a>을 통한 온라인 미팅을 실시한다. 스터디는 다음과 같은 주교재를 중심으로 운영된다:</p>
+<ul>
+<li>Fox Jr., John. 2016. <a href="https://www.dropbox.com/s/x4h76g5j3657m3w/John%20Fox%20-%20Applied%20Regression%20Analysis%20and%20Generalized%20Linear%20Models.pdf?dl=0"><em>Applied Regression Analysis and Generalized Linear Models, Third Edition</em></a>. Thousand Oaks, CA: SAGE Publications.</li>
+</ul>
+<p><code>R</code>은 프로그래밍 언어이면서 컴퓨팅과 그래픽을 통해 통계적 분석을 할 수 있도록 하는 환경이라고 할 수 이다. <code>R</code> 과 관련된 자료는 다음의 링크롤 통해 확인할 수 있다.</p>
+<ul>
+<li><p><code>R</code> 다운로드: <a href="https://www.r-project.org/" class="uri">https://www.r-project.org/</a>.</p></li>
+<li><p><code>RStudio</code>는 <code>R</code>이라는 프로그래밍 언어를 좀 더 사용자 친화적인 방식으로 제공하는 인터페이스이다: <a href="https://rstudio.com/products/rstudio/download/" class="uri">https://rstudio.com/products/rstudio/download/</a></p></li>
+</ul>
+<p>이외에 통계학 이론에 관해서는 다음의 자료를 참고한다.</p>
+<ul>
+<li><p>Jeffrey M. Wooldridge. <a href="https://www.dropbox.com/s/iq7hyck25xji1mv/Jeffrey%20M.%20Wooldridge-Introductory%20Econometrics_%20A%20Modern%20Approach-South-Western%20College%20Pub%20%282012%29.pdf?dl=0"><em>Introductory Econometrics: A Modern Approach, 5th (or later) edition</em></a>. Cengage Learning.</p></li>
+<li><p>Andrew Gelman and Jennifer Hill. 2007. <a href="https://www.dropbox.com/s/1xa7l5l60x0hfgh/Andrew%20Gelman%20-%20Data%20Analysis%20Using%20Regression%20and%20Multilevel_Hierarchical%20Models-Cambridge%20University%20Press%20%282008%29.pdf?dl=0"><em>Data Analysis Using Regression and Multilevel Hierarchical Models</em></a>. Cambridge University Press.</p></li>
+</ul>
+<p><code>R</code> 프로그래밍 및 코딩과 관련된 자료는 아래를 참고할 것을 권한다.</p>
+<ul>
+<li><p>Hadley Wickham and Garrett Grolemund. <a href="https://r4ds.had.co.nz/"><em>R for Data Science</em></a></p></li>
+<li><p>Hadley Wickam. <a href="https://adv-r.hadley.nz/"><em>Advanced R 2nd Edition</em></a></p></li>
+<li><p>Hadley Wickam. <a href="https://ggplot2-book.org/"><em>ggplot2: Elegant Graphics for Data Analysis</em></a></p></li>
+</ul>
+<p><span class="newthought">스터디를 통해 구성원들은 다음과 같은 성과를 얻을 것으로 기대한다:
+1. <code>R</code>을 이용해 데이터를 불러오고, 변형하여 통계적 검정을 수행하고, 나아가 선형모델을 추정할 수 있게 될 것이다.</p>
+<ol start="2" style="list-style-type: decimal">
+<li><p>OLS 접근법의 가정들을 이해하고, OLS를 통해 얻은 결과를 해석할 수 있게 될 것이다.</p></li>
+<li><p>모델 특정(specification), 혹은 모델 특정(misspecification)의 오류와 관련된 문제들을 진단하고, 바로잡을 수 있게 될 것이다.</p></li>
+<li><p>모델 특정과 연구설계(research design)에 관련하여 제기될 수 있는 문제들을 설명할 수 있게 될 것이다.</p></li>
+</ol>
+<h4 id="논문-및-기타-참고자료">논문 및 기타 참고자료</h4>
+<p>주마다 참고할 만한 리딩자료는 드랍박스의 <code>Textbook</code> 폴더에, 스터디에 활용할 슬라이드 자료는 <code>Documents (Slides)</code> 폴더에 주차별로 추가될 예정이다. 또한, <a href="https://rweekly.org/">R Weekly newsletter</a>를 구독할 것을 추천하는데, 매우 유용한 튜토리얼과 <strong>R</strong>에 관련된 자료들이 주마다 메일로 제공된다.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>{-}
+{{% courseinfo %}}<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>

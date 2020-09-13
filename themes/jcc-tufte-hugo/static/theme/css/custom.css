@@ -1,3 +1,93 @@
+
+/*fancy collapsible https://alligator.io/css/collapsible/ */
+
+
+
+
+.wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+  max-width:800px;
+  text-align: justify;
+}
+
+.wrap-collapsible:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+
+div.wrap-collabsible a:link {
+  color: #ec264e;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+  font-weight: bold;
+  font-size: 1.5em;
+  padding: 1rem;
+  color: #ffffff;
+  background: #7d8c8e;
+  cursor: pointer;
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  background: #0f67a6;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 630px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: #E1EBED;
+  color: #241a92;
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 3px;
+  padding: 1rem 3rem;
+}
+
+
+# Frome here on the original from healey
+
+
 article .sidenote, article .marginnote {
     margin-bottom: 0.3rem;
 }
@@ -65,7 +155,7 @@ a > code {
 }
 
 footer {
-    font-family: "Oswald", sans-serif;
+    font-family: "source-sans-pro", sans-serif;
 }
 
 .course-info {
@@ -94,14 +184,14 @@ ul.footer-links {
 }
 
 .fake-header {
-    font-family: "Oswald", sans-serif;
+    font-family: "source-sans-pro", sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 1.2rem;
 }
 
 .fake-header-table {
-    font-family: "Oswald", sans-serif;
+    font-family: "source-sans-pro", sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 1.25rem;
@@ -114,7 +204,7 @@ ul.footer-links {
 td.mid-table-header {
     text-align: center;
     vertical-align: bottom !important;
-    font-family: "Oswald", sans-serif;
+    font-family: "source-sans-pro", sans-serif;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -163,7 +253,7 @@ img.img75 {max-width: 75%}
     header > nav a.logo {
         float: inherit;
         padding-right: 0;
-        padding-top: 0; 
+        padding-top: 0;
     }
 
     header > nav a img {

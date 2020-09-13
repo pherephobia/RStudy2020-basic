@@ -1,7 +1,7 @@
 baseURL: "https://rstudy2020.netlify.app"
 languageCode: ko-KOR
 title: R로 하는 기초통계
-theme: "ath-tufte-hugo_18-19"
+theme: "jcc-tufte-hugo"
 googleAnalytics: ""
 ignoreFiles:
   - \.Rmd$
@@ -47,7 +47,7 @@ params:
     semester: 2020 가을
     days: "월요일"
     time: "09:00-10:30 PM"
-    location: "*Zoom Online*"
+    location: "Zoom Online"
     twitter: pherephobia
     dates: "2020년 9월 7일-12월 7일"
     github: "pherephobia/Rstudy2020-basic"
