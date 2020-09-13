@@ -1,6 +1,6 @@
 ---
-title: "Wrapping up and going beyond the basics"
-date: "2018-12-13"
+title: "Understanding of Interactions"
+date: "2020-12-07, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -12,14 +12,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
 
-Download the slides from today's lecture:
+# 슬라이드
 
-- [<i class="fas fa-file-pdf"></i> PDF (best option)](/slides/MPA-630_2018-12-13.pdf)
-- [<i class="fas fa-file-powerpoint"></i> PowerPoint](/slides/MPA-630_2018-12-13.pptx)
+TBA
 
-<figure>
-[![First slide](/images/slides/slides_2018-12-13.png)](/slides/MPA-630_2018-12-13.pdf)
-</figure>
+# 참고자료
+
+TBA
 

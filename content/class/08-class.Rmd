@@ -1,6 +1,6 @@
 ---
-title: "Multivariate Linear Regression I"
-date: "2020-11-23, Tue"
+title: "Foundation of Inference II"
+date: "2020-10-26, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -20,5 +20,4 @@ TBA
 # 참고자료
 
 TBA
-
 

@@ -1,6 +1,6 @@
 ---
-title: "Inference, regression, and stories"
-date: "2018-12-06"
+title: "Problem set3 & Multivariate Linear Regression II"
+date: "2020-11-30, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -10,28 +10,15 @@ output:
     toc: true
 editor_options: 
   chunk_output_type: console
-stuff-to-add: >-
-  https://twitter.com/jent103/status/1033481434072317957?s=12
 ---
 
-# Slides
 
-Download the slides from today's lecture:
+# 슬라이드
 
-- [<i class="fas fa-file-pdf"></i> PDF (best option)](/slides/MPA-630_2018-12-06.pdf)
-- [<i class="fas fa-file-powerpoint"></i> PowerPoint](/slides/MPA-630_2018-12-06.pptx)
+TBA
 
-<figure>
-[![First slide](/images/slides/slides_2018-12-06.png)](/slides/MPA-630_2018-12-06.pdf)
-</figure>
+# 참고자료
+
+TBA
 
 
-# Clearest and muddiest things
-
-Go to [this form](https://goo.gl/forms/PlPwZGhMOdU9mKfC3) and answer these three questions:
-
-1. What was the muddiest thing from class today? What are you still wondering about?
-2. What was the clearest thing from class today? 
-3. What was the most exciting thing you learned?
-
-I'll compile the questions and send out answers after class.

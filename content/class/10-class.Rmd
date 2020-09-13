@@ -1,6 +1,6 @@
 ---
-title: "Bootstrapping and confidence intervals"
-date: "2018-11-08"
+title: "Introduction to Linear Regression IIs"
+date: "2020-11-09, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -12,10 +12,13 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
 
-Download the slides from today's lecture:
+# 슬라이드
 
-- [<i class="fas fa-file-pdf"></i> PDF (best option)](/slides/MPA-630_2018-11-08.pdf)
-- [<i class="fas fa-file-powerpoint"></i> PowerPoint](/slides/MPA-630_2018-11-08.pptx)
+TBA
+
+# 참고자료
+
+TBA
+
 

@@ -1,6 +1,6 @@
 ---
-title: "Multivariate Linear Regression I"
-date: "2020-11-23, Tue"
+title: "Problem set1 & Probabilities and Distributions II"
+date: "2020-10-12, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
