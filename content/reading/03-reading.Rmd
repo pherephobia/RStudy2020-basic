@@ -13,6 +13,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Data Visualization in Sociology](readings/w2_Data Visualization in Sociology.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Data Visualization in Sociology](https://www.dropbox.com/s/eggjh88s21kr2jo/w2_Data%20Visualization%20in%20Sociology.pdf?dl=0)
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Data Visualization with R](readings/w2_Data Visualization with R.pdf)
+- [<i class="fas fa-file-pdf"></i>] [Data Visualization with R](https://www.dropbox.com/s/eggjh88s21kr2jo/w2_Data%20Visualization%20in%20Sociology.pdf?dl=0)

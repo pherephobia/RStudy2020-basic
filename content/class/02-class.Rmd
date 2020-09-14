@@ -16,5 +16,4 @@ editor_options:
 
 <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [2주차 HTML 마크다운 1](images/w2_intro2R2.html)
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [2주차 HTML 마크다운 2](images/w2_intro2R2_1.html)
 
