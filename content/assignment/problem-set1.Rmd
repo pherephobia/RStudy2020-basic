@@ -9,5 +9,4 @@ editor_options:
 
 # Instructions
 
-TBA, topics: 
-- importing data, variable types, converting variable types, making a dataset tidy (gather/spread).
+- [<i class="fas fa-file-pdf"></i>] [Problem Set 1](/images/Week1_Questions.pdf)
