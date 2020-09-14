@@ -1,6 +1,6 @@
 ---
 title: "Foundation of Inference I"
-date: "2020-10-19, Tue"
+date: "2020-10-21, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -12,4 +12,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 
 # Recommended
-- <i class="fas fa-book"></i> [Do Statistical Reporting Standards Affect What is Published?](static/readings/w3_Do Statistical Reporting Standards Affect What is Published.pdf)
+- <i class="fas fa-book"></i> [Do Statistical Reporting Standards Affect What is Published?](readings/w3_Do Statistical Reporting Standards Affect What is Published.pdf)

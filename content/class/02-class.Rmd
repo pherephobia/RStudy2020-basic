@@ -1,6 +1,6 @@
 ---
 title: "Statistical Models and Social Science (& Tidyverse)"
-date: "2020-09-14 Tue"
+date: "2020-09-14, Mon"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -14,7 +14,7 @@ editor_options:
 
 # 참고자료
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [2주차 HTML 마크다운 1](static/images/w2_intro2R2.html)
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [2주차 HTML 마크다운 1](images/w2_intro2R2.html)
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [2주차 HTML 마크다운 2](static/images/w2_intro2R2_1.html)
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [2주차 HTML 마크다운 2](images/w2_intro2R2_1.html)
 

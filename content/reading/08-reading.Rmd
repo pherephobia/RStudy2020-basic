@@ -1,6 +1,6 @@
 ---
 title: "Foundation of Inference II"
-date: "2020-10-26, Tue"
+date: "2020-10-27, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -13,6 +13,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Abandon Statistical Significance](static/readings/w3_Abandon Statistical Significance.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Abandon Statistical Significance](readings/w3_Abandon Statistical Significance.pdf)
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [The Statistical Crisis in Science](static/readings/w3_The Statistical Crisis in Science.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [The Statistical Crisis in Science](readings/w3_The Statistical Crisis in Science.pdf)

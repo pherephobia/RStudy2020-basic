@@ -1,6 +1,6 @@
 ---
 title: "Simple Linear Regression"
-date: "2020-11-16, Tue"
+date: "2020-11-17, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -12,6 +12,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong](static/readings/w5_Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong](readings/w5_Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong.pdf)
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Strategic Misspecification in Regression Models](static/readings/w5_Strategic Misspecification in Regression Models.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Strategic Misspecification in Regression Models](readings/w5_Strategic Misspecification in Regression Models.pdf)

@@ -1,6 +1,6 @@
 ---
 title: "Understanding of Interactions"
-date: "2020-12-07, Tue"
+date: "2020-12-08, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -13,6 +13,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Understanding Interaction Models: Improving Empirical Analyses](static/readings/w10_Understanding Interaction Models.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Understanding Interaction Models: Improving Empirical Analyses](readings/w10_Understanding Interaction Models.pdf)
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice](how_much_should_we_trust.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice](readings/how_much_should_we_trust.pdf)

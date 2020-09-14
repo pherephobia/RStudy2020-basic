@@ -8,12 +8,12 @@ lessons:
     class: "01-class"
   
   - title: "Statistical Models and Social Science (& Tidyverse)"
-    date: "2020-09-14 Tue"
+    date: "2020-09-14, Mon"
     reading: "02-reading"
     class: "02-class"
   
   - title: "Types of Data; Visualizaing and Transforming Data"
-    date: "2020-09-21, Tue"
+    date: "2020-09-22, Tue"
     reading: "03-reading"
     class: "03-class"
     assignment: "problem-set1"
@@ -22,25 +22,25 @@ lessons:
     header: True
   
   - title: "Probabilities and Distributions I"
-    date:  "2020-09-28, Tue"
+    date:  "2020-09-29, Tue"
     reading: "04-reading"
     class: "04-class"
 
   - title: '<i class="fas fa-star"></i>추석연휴로 스터디는 쉽니다'
-    date: "2020-10-05, Tue"
+    date: "2020-10-06, Tue"
         
   - title: "Problem set1 & Probabilities and Distributions II"
-    date: "2020-10-12, Tue"
+    date: "2020-10-13, Tue"
     reading: "06-reading"
     class: "06-class"
   
   - title: "Foundation of Inference I"
-    date: "2020-10-19, Tue"
+    date: "2020-10-20, Tue"
     reading: "07-reading"
     class: "07-class"
   
   - title: "Foundation of Inference II"
-    date: "2020-10-26, Tue"
+    date: "2020-10-27, Tue"
     reading: "08-reading"
     class: "08-class"
     assignment: "problem-set2"
@@ -49,33 +49,33 @@ lessons:
     header: True
 
   - title: "Problem set2 & Introduction to Linear Regression I"
-    date: "2020-11-02, Tue"
+    date: "2020-11-03, Tue"
     reading: "09-reading"
     class: "09-class"
     
   - title: "Introduction to Linear Regression II"
-    date: "2020-11-09, Tue"
+    date: "2020-11-10, Tue"
     reading: "10-reading"
     class: "10-class"
 
   - title: "Simple Linear Regression"
-    date: "2020-11-16, Tue"
+    date: "2020-11-17, Tue"
     reading: "11-reading"
     class: "11-class"
     
   - title: "Multivariate Linear Regression I"
-    date: "2020-11-23, Tue"
+    date: "2020-11-24, Tue"
     reading: "12-reading"
     class: "12-class"
     assignment: "problem-set3"
 
   - title: "Problem set3 & Multivariate Linear Regression II"
-    date: "2020-11-30, Tue"
+    date: "2020-12-01, Tue"
     reading: "13-reading"
     class: "13-class"
 
   - title: "Understanding of Interactions"
-    date: "2020-12-07, Tue"
+    date: "2020-12-08, Tue"
     reading: "14-reading"
     class: "14-class"
     

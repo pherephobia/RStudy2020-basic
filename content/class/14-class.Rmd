@@ -1,6 +1,6 @@
 ---
 title: "Understanding of Interactions"
-date: "2020-12-07, Tue"
+date: "2020-12-08, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl

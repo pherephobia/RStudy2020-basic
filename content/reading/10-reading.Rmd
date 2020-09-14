@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Linear Regression II"
-date: "2020-11-09, Tue"
+date: "2020-11-10, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -12,4 +12,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Statistical Models and Shoe Leather](static/readings/w4_Statistical Models and Shoe Leather.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Statistical Models and Shoe Leather](readings/w4_Statistical Models and Shoe Leather.pdf)

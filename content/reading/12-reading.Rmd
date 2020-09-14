@@ -1,6 +1,6 @@
 ---
 title: "Multivariate Linear Regression I"
-date: "2020-11-23, Tue"
+date: "2020-11-24, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -8,5 +8,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [Ch4. in Fox and Weisberg (2019)](static/readings/John Fox, Sanford Weisberg - An R Companion to Applied Regression 2019, SAGE.pdf)
+- <i class="fas fa-book"></i> [Ch4. in Fox and Weisberg (2019)](readings/John Fox, Sanford Weisberg - An R Companion to Applied Regression 2019, SAGE.pdf)
 

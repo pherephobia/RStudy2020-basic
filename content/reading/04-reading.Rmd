@@ -1,6 +1,6 @@
 ---
 title: "Probabilities and Distributions I"
-date:  "2020-09-28, Tue"
+date:  "2020-09-29, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl

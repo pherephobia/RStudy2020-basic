@@ -1,6 +1,6 @@
 ---
 title: "Types of Data; Visualizaing and Transforming Data"
-date: "2020-09-21, Tue"
+date: "2020-09-22, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -13,6 +13,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Data Visualization in Sociology](static/readings/w2_Data Visualization in Sociology.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Data Visualization in Sociology](readings/w2_Data Visualization in Sociology.pdf)
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Data Visualization with R](static/readings/w2_Data Visualization with R.pdf)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Data Visualization with R](readings/w2_Data Visualization with R.pdf)

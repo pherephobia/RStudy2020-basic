@@ -1,6 +1,6 @@
 ---
 title: "Foundation of Inference I"
-date: "2020-10-19, Tue"
+date: "2020-10-20, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
