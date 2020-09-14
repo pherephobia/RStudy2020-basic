@@ -9,4 +9,4 @@ editor_options:
 
 # Instructions
 
-- [<i class="fas fa-file-pdf"></i>] [Problem Set 1](/images/Week1_Questions.pdf)
+- <i class="fas fa-file-pdf"></i> [Problem Set 1](/images/Week1_Questions.pdf)
