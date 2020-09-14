@@ -13,6 +13,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Understanding Interaction Models: Improving Empirical Analyses](readings/w10_Understanding Interaction Models.pdf)
+- [<i class="fas fa-file-pdf"></i>] [Understanding Interaction Models: Improving Empirical Analyses](https://www.dropbox.com/s/bcuuv2iqvea33nm/w10_Understanding%20Interaction%20Models.pdf?dl=0)
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice](readings/how_much_should_we_trust.pdf)
+- [<i class="fas fa-file-pdf"></i>] [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice](https://www.dropbox.com/s/wiaf9s79ms7q9fg/how_much_should_we_trust_estimates_from_multiplicative_interaction_models_simple_tools_to_improve_empirical_practice.pdf?dl=0)
