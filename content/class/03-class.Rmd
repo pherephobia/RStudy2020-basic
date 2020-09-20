@@ -14,11 +14,9 @@ editor_options:
 
 # 슬라이드
 
-3주차 슬라이드
+[3주차 슬라이드](/images/slides/w3_typeofdata_slide.pdf).
 
 # 참고자료
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [ggplot HTML 마크다운 2](/images/w2_intro2R2_1.html)
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [ggplot2 HTML 마크다운](/images/w2_intro2R2_1.html)
 
-
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> 3주차 HTML 마크다운
