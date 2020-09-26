@@ -12,6 +12,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- [<i class="fas fa-file-pdf"></i>] [Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong](https://www.dropbox.com/s/wbef2bq0wfakm1e/w5_Let%27s%20Put%20Garbage-Can%20Regressions%20and%20Garbage-Can%20Probits%20Where%20They%20Belong.pdf?dl=0)
+- <i class="fas fa-file-pdf"></i> [Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong](https://www.dropbox.com/s/wbef2bq0wfakm1e/w5_Let%27s%20Put%20Garbage-Can%20Regressions%20and%20Garbage-Can%20Probits%20Where%20They%20Belong.pdf?dl=0)
 
-- [<i class="fas fa-file-pdf"></i>] [Strategic Misspecification in Regression Models](https://www.dropbox.com/s/wbef2bq0wfakm1e/w5_Let%27s%20Put%20Garbage-Can%20Regressions%20and%20Garbage-Can%20Probits%20Where%20They%20Belong.pdf?dl=0)
+- <i class="fas fa-file-pdf"></i> [Strategic Misspecification in Regression Models](https://www.dropbox.com/s/wbef2bq0wfakm1e/w5_Let%27s%20Put%20Garbage-Can%20Regressions%20and%20Garbage-Can%20Probits%20Where%20They%20Belong.pdf?dl=0)

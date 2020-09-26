@@ -13,4 +13,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 
-- [<i class="fas fa-file-pdf"></i>] [Is OLS Dead?](https://www.dropbox.com/s/kczzjbf6tc1ksqt/w4_Is%20OLS%20dead.pdf?dl=0)
+- <i class="fas fa-file-pdf"></i> [Is OLS Dead?](https://www.dropbox.com/s/kczzjbf6tc1ksqt/w4_Is%20OLS%20dead.pdf?dl=0)

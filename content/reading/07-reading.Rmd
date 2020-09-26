@@ -12,4 +12,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 
 # Recommended
-- [<i class="fas fa-file-pdf"></i>] [Do Statistical Reporting Standards Affect What is Published?](https://www.dropbox.com/s/j5j6gmamyuo0hbn/w3_Do%20Statistical%20Reporting%20Standards%20Affect%20What%20is%20Published.pdf?dl=0)
+- <i class="fas fa-file-pdf"></i> [Do Statistical Reporting Standards Affect What is Published?](https://www.dropbox.com/s/j5j6gmamyuo0hbn/w3_Do%20Statistical%20Reporting%20Standards%20Affect%20What%20is%20Published.pdf?dl=0)
