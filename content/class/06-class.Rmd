@@ -15,6 +15,6 @@ editor_options:
 
 # 참고자료
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [6주차 HTML 마크다운](/images/w4_prob_dist2.html)
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [6주차 HTML 마크다운](/images/w6_prob_dist2.html)
 
 
