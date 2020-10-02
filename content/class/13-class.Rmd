@@ -14,8 +14,8 @@ editor_options:
 
 # 슬라이드
 
-13주차 슬라이드.
+- <i class="fas fa-file-pdf"></i> [13주차 슬라이드](/images/slides/w13_MLR2_slide.pdf).
 
 # 참고자료
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> 13주차 HTML 마크다운
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [13주차 HTML 마크다운](/images/w13_MLR2.html)

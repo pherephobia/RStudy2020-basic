@@ -14,9 +14,9 @@ editor_options:
 
 # 슬라이드
 
-[1주차 슬라이드](/images/slides/w1_intro2R_slide.pdf).
+- <i class="fas fa-file-pdf"></i> [1주차 슬라이드](/images/slides/w1_intro2R_slide.pdf).
 
 
 # 참고자료
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [1주차 HTML 마크다운](/images/w1_intro2R.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [1주차 HTML 마크다운](/images/w1_intro2R.html)

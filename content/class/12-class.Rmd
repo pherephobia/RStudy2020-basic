@@ -14,8 +14,8 @@ editor_options:
 
 # 슬라이드
 
-12주차 슬라이드.
+- <i class="fas fa-file-pdf"></i> [12주차 슬라이드](/images/slides/w12_MLR1_slide.pdf).
 
 # 참고자료
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> 12주차 HTML 마크다운
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [12주차 HTML 마크다운](/images/w12_MLR1.html)

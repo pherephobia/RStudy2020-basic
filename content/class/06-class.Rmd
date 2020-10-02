@@ -12,9 +12,12 @@ editor_options:
   chunk_output_type: console
 ---
 
+# Problem Set 1 Solution
+
+- <i class="fas fa-file-pdf"></i> [Problem Set 1 Solution](/images/solution1.pdf).
 
 # 참고자료
 
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [6주차 HTML 마크다운](/images/w6_prob_dist2.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [6주차 HTML 마크다운](/images/w6_prob_dist2.html)
 
 
