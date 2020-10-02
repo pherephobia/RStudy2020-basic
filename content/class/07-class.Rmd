@@ -20,5 +20,5 @@ editor_options:
 
 # 참고자료
 
-- i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [7주차 HTML 마크다운](/images/w7_inference.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [7주차 HTML 마크다운](/images/w7_inference.html)
 

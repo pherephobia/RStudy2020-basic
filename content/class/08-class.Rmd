@@ -18,4 +18,4 @@ editor_options:
 
 # 참고자료
 
-- i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [8주차 HTML 마크다운](/images/w8_inference2.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [8주차 HTML 마크다운](/images/w8_inference2.html)
