@@ -12,9 +12,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-
 # 슬라이드
 
+- <i class="fas fa-file-pdf"></i> [9주차 슬라이드](/images/slides/w9_slm_slide.pdf).
 
 # Problem Set 2 Solution
 

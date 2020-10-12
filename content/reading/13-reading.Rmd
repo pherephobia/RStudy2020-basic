@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Non-linear Models"
+title: "Problem set3 & Introduction to Non-linear Models"
 date: "2020-12-08, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib

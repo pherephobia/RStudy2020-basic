@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Non-linear Models"
+title: "Problem set3 & Introduction to Non-linear Models"
 date: "2020-12-08, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
@@ -15,6 +15,10 @@ editor_options:
 # 슬라이드
 
 - <i class="fas fa-file-pdf"></i> [13주차 슬라이드](/images/slides/w13_NLM_slide.pdf).
+
+# Problem Set 3 Solution
+
+- <i class="fas fa-file-pdf"></i> [Problem Set 2 Solution](/images/solution3.pdf).
 
 # 참고자료
 
