@@ -1,5 +1,5 @@
 ---
-title: "Problem set2 & Introduction to Linear Regression I"
+title: "Problem set2 & Simple Linear Regression"
 date: "2020-11-03, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
@@ -15,12 +15,11 @@ editor_options:
 
 # 슬라이드
 
-- <i class="fas fa-file-pdf"></i> [9주차 슬라이드](/images/slides/w9_intro2regression_slide.pdf).
 
-# Problem Set 1 Solution
+# Problem Set 2 Solution
 
 - <i class="fas fa-file-pdf"></i> [Problem Set 2 Solution](/images/solution2.pdf).
 
 # 참고자료
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [9주차 HTML 마크다운](/images/w9_intro2regression.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [9주차 HTML 마크다운](/images/w9_slm.html)

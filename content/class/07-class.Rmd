@@ -1,5 +1,5 @@
 ---
-title: "Foundation of Inference I"
+title: "Foundation of Inference"
 date: "2020-10-20, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
@@ -11,12 +11,6 @@ output:
 editor_options: 
   chunk_output_type: console
 ---
-
-
-# 슬라이드
-
-- <i class="fas fa-file-pdf"></i> [7주차 슬라이드](/images/slides/w7_inference_slide.pdf).
-
 
 # 참고자료
 

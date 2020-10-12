@@ -1,6 +1,6 @@
 ---
-title: "Multivariate Linear Regression I"
-date: "2020-11-24, Tue"
+title: "Problem set3 & Understanding of Interactions"
+date: "2020-12-01, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -14,8 +14,8 @@ editor_options:
 
 # 슬라이드
 
-- <i class="fas fa-file-pdf"></i> [12주차 슬라이드](/images/slides/w12_MLR1_slide.pdf).
+- <i class="fas fa-file-pdf"></i> [12주차 슬라이드](/images/slides/w12_interaction_slide.pdf).
 
 # 참고자료
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [12주차 HTML 마크다운](/images/w12_MLR1.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [12주차 HTML 마크다운](/images/w12_interaction.html)

@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Linear Regression IIs"
-date: "2020-11-10, Tue"
+title: "Multivariate Linear Regression I: Theory"
+date: "2020-11-17, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -14,9 +14,9 @@ editor_options:
 
 # 슬라이드
 
-- <i class="fas fa-file-pdf"></i> [10주차 슬라이드](/images/slides/w10_intro2regression2_slide.pdf).
+- <i class="fas fa-file-pdf"></i> [10주차 슬라이드](/images/slides/w10_mlm1_theory_slide.pdf).
 
 # 참고자료
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [10주차 HTML 마크다운](/images/w9_intro2regression2.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [10주차 HTML 마크다운](/images/w10_mlm1_theory.html)
 

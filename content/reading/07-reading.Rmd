@@ -1,5 +1,5 @@
 ---
-title: "Foundation of Inference I"
+title: "Foundation of Inference"
 date: "2020-10-21, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
@@ -12,3 +12,7 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Recommended
 - <i class="fas fa-file-pdf"></i> [Do Statistical Reporting Standards Affect What is Published?](https://www.dropbox.com/s/j5j6gmamyuo0hbn/w3_Do%20Statistical%20Reporting%20Standards%20Affect%20What%20is%20Published.pdf?dl=0)
+
+- <i class="fas fa-file-pdf"></i> [Abandon Statistical Significance](https://www.dropbox.com/s/8b8miwegf5t3kjo/w3_Abandon%20Statistical%20Significance.pdf?dl=0)
+
+- <i class="fas fa-file-pdf"></i> [The Statistical Crisis in Science](https://www.dropbox.com/s/illhf1q0h6dxa14/w3_The%20Statistical%20Crisis%20in%20Science.pdf?dl=0)

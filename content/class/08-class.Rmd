@@ -1,5 +1,5 @@
 ---
-title: "Foundation of Inference II"
+title: "Hypothesis Testing"
 date: "2020-10-27, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
@@ -14,8 +14,7 @@ editor_options:
 
 # 슬라이드
 
-- <i class="fas fa-file-pdf"></i> [8주차 슬라이드](/images/slides/w8_inference2_slide.pdf).
-
+- <i class="fas fa-file-pdf"></i> [8주차 슬라이드](/images/slides/w8_hypothesistesting_slide.pdf).
 # 참고자료
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [8주차 HTML 마크다운](/images/w8_inference2.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [8주차 HTML 마크다운](/images/w8_hypothesistesting.html)

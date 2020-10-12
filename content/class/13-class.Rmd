@@ -1,6 +1,6 @@
 ---
-title: "Problem set3 & Multivariate Linear Regression II"
-date: "2020-12-01, Tue"
+title: "Introduction to Non-linear Models"
+date: "2020-12-08, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -14,8 +14,8 @@ editor_options:
 
 # 슬라이드
 
-- <i class="fas fa-file-pdf"></i> [13주차 슬라이드](/images/slides/w13_MLR2_slide.pdf).
+- <i class="fas fa-file-pdf"></i> [13주차 슬라이드](/images/slides/w13_NLM_slide.pdf).
 
 # 참고자료
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [13주차 HTML 마크다운](/images/w13_MLR2.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [13주차 HTML 마크다운](/images/w13_NLM.html)

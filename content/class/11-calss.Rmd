@@ -1,6 +1,6 @@
 ---
-title: "Simple Linear Regression"
-date: "2020-11-17, Tue"
+title: "Multivariate Linear Regression II: Practice"
+date: "2020-11-24, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -14,8 +14,8 @@ editor_options:
 
 # 슬라이드
 
-- <i class="fas fa-file-pdf"></i> [11주차 슬라이드](/images/slides/w11_simpleregression_slide.pdf).
+- <i class="fas fa-file-pdf"></i> [11주차 슬라이드](/images/slides/w11_mlm2_practice_slide.pdf).
 
 # 참고자료
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [11주차 HTML 마크다운](/images/w1_simpleregression.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [11주차 HTML 마크다운](/images/w11_mlm2_practice.html)

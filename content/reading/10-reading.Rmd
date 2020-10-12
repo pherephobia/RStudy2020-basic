@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Linear Regression II"
-date: "2020-11-10, Tue"
+title: "Multivariate Linear Regression I: Theory"
+date: "2020-11-17, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -8,8 +8,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
-- <i class="fas fa-book"></i> [Ch6. in Fox (2016)](https://www.dropbox.com/s/x4h76g5j3657m3w/John%20Fox%20-%20Applied%20Regression%20Analysis%20and%20Generalized%20Linear%20Models.pdf?dl=0)
+- <i class="fas fa-book"></i> [Ch4. in Fox and Weisberg (2019)](readings/John Fox, Sanford Weisberg - An R Companion to Applied Regression 2019, SAGE.pdf)
 
-# Recommended
-
-- <i class="fas fa-file-pdf"></i> [Statistical Models and Shoe Leather](https://www.dropbox.com/s/zuf1l9zosi7ujmh/w4_Statistical%20Models%20and%20Shoe%20Leather.pdf?dl=0)
