@@ -16,10 +16,6 @@ editor_options:
 
 - <i class="fas fa-file-pdf"></i> [9주차 슬라이드](/images/slides/w9_slm_slide.pdf).
 
-# Problem Set 2 Solution
-
-- <i class="fas fa-file-pdf"></i> [Problem Set 2 Solution](/images/solution2.pdf).
-
 # 참고자료
 
 - <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [9주차 HTML 마크다운](/images/w9_slm.html)

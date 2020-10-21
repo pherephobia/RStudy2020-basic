@@ -1,0 +1,21 @@
+---
+title: "Problem set2 & Simple Linear Regression"
+date: "2020-10-27, Tue"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# 슬라이드
+
+- <i class="fas fa-file-pdf"></i> [9주차 슬라이드](/images/slides/w9_slm_slide.pdf).
+
+# 참고자료
+
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [9주차 HTML 마크다운](/images/w9_slm.html)
