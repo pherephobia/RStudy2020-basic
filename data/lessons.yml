@@ -38,31 +38,28 @@ lessons:
     date: "2020-10-20, Tue"
     reading: "07-reading"
     class: "07-class"
-    
-  - title: "Hypothesis Testing"
-    date: "2020-10-27, Tue"
-    reading: "08-reading"
-    class: "08-class"
-    assignment: "problem-set2"
 
   - title: '<span class="fake-header-table">선형회귀모델(단순, 다중, 상호작용)</span>'
     header: True
-
-  - title: "Problem set2 & Simple Linear Regression"
-    date: "2020-11-03, Tue"
+    
+  - title: "Simple Linear Regression"
+    date: "2020-10-27, Tue"
     reading: "09-reading"
     class: "09-class"
+    assignment: "problem-set2"
+
+  - title: '<i class="fas fa-star"></i>귀국일정으로 인해 스터디는 쉽니다.'
+    date: "2020-11-03, Tue"
     
   - title: '<i class="fas fa-star"></i>귀국일정으로 인해 스터디는 쉽니다.'
     date: "2020-11-10, Tue"
-
 
   - title: "Multivariate Linear Regression I: Theory"
     date: "2020-11-17, Tue"
     reading: "10-reading"
     class: "10-class"
     
-  - title: "Multivariate Linear Regression II: Practice"
+  - title: "Problem set2 & Multivariate Linear Regression II: Practice"
     date: "2020-11-24, Tue"
     reading: "11-reading"
     class: "11-class"

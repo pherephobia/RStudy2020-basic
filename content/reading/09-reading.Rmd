@@ -1,6 +1,6 @@
 ---
 title: "Problem set2 & Simple Linear Regression"
-date: "2020-11-03, Tue"
+date: "2020-10-27, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
