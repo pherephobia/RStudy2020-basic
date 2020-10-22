@@ -59,7 +59,7 @@ lessons:
     reading: "10-reading"
     class: "10-class"
     
-  - title: "Problem set2 & Multivariate Linear Regression II: Practice"
+  - title: "Multivariate Linear Regression II: Practice & Problem set2"
     date: "2020-11-24, Tue"
     reading: "11-reading"
     class: "11-class"
@@ -73,7 +73,7 @@ lessons:
   - title: '<span class="fake-header-table">비선형회귀모델의 소개</span>'
     header: True
 
-  - title: "Problem set3 & Introduction to Non-linear Models"
+  - title: "Introduction to Non-linear Models & Problem set2"
     date: "2020-12-08, Tue"
     reading: "13-reading"
     class: "13-class"
