@@ -73,7 +73,7 @@ lessons:
   - title: '<span class="fake-header-table">비선형회귀모델의 소개</span>'
     header: True
 
-  - title: "Introduction to Non-linear Models & Problem set2"
+  - title: "Introduction to Non-linear Models & Problem set3"
     date: "2020-12-08, Tue"
     reading: "13-reading"
     class: "13-class"
