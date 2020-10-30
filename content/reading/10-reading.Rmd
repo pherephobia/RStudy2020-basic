@@ -10,3 +10,7 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 - <i class="fas fa-book"></i> [Ch4. in Fox and Weisberg (2019)](readings/John Fox, Sanford Weisberg - An R Companion to Applied Regression 2019, SAGE.pdf)
 
+# Recommended
+
+- <i class="fas fa-file-pdf"></i> [Scaling regression inputs by dividing by two standard deviations](https://www.dropbox.com/s/iagrkexz5gogltm/Gelman%202008_Stat.Medicine.pdf?dl=0)
+
