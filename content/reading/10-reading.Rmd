@@ -8,6 +8,8 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required Reading
 
+- <i class="fas fa-book"></i> [Ch5 (pp. 92-102). in Fox (2016)](https://www.dropbox.com/s/x4h76g5j3657m3w/John%20Fox%20-%20Applied%20Regression%20Analysis%20and%20Generalized%20Linear%20Models.pdf?dl=0)
+
 - <i class="fas fa-book"></i> [Ch4. in Fox and Weisberg (2019)](https://www.dropbox.com/s/utuyuanbspcvkye/John%20Fox%2C%20Sanford%20Weisberg%20-%20An%20R%20Companion%20to%20Applied%20Regression%20%282019%2C%20SAGE%29.pdf?dl=0)
 
 # Recommended
