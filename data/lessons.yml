@@ -54,12 +54,12 @@ lessons:
   - title: '<i class="fas fa-star"></i>귀국일정으로 인해 스터디는 쉽니다.'
     date: "2020-11-10, Tue"
 
-  - title: "Multivariate Linear Regression I: Theory"
+  - title: "Multivariate Linear Regression"
     date: "2020-11-17, Tue"
     reading: "10-reading"
     class: "10-class"
     
-  - title: "Multivariate Linear Regression II: Practice & Problem set2"
+  - title: "Diagnostics for Linear Regression & Problem set2"
     date: "2020-11-24, Tue"
     reading: "11-reading"
     class: "11-class"

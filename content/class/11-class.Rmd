@@ -1,5 +1,5 @@
 ---
-title: "Multivariate Linear Regression II: Practice & Problem set2"
+title: "Problem set2 & Diagnostics for Linear Regression"
 date: "2020-11-24, Tue"
 citeproc: false
 bibliography: ../../static/bib/references.bib
@@ -7,14 +7,11 @@ csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
     template: ../../pandoc/toc-title_html.template
+    smart: false
     toc: true
-editor_options: 
+editor_options:
   chunk_output_type: console
 ---
-
-# 슬라이드
-
-- <i class="fas fa-file-pdf"></i> [11주차 슬라이드](/images/slides/w11_mlm2_practice_slide.pdf).
 
 # Problem Set 2 Solution
 
